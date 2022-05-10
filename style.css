@@ -695,6 +695,7 @@ a {
     font-family: "helvetica";
     font-weight: 400;
     color: #313030 !important;
+    font-display: swap;
 }
 
 .container {
