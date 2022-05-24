@@ -21,7 +21,7 @@ a:hover {
 .site_nav:focus {
     border-color: #313030;
     outline: 0;
-    outline: thin dotted \9;
+    outline: thin dotted;
     -moz-box-shadow: 0 0 8px #313030;
     box-shadow: 0 0 8px #313030!important;
   }
@@ -101,7 +101,7 @@ a:hover {
 .texture-paper::before {
     background: url("img/texture-paper.webp");
     background-size: 280px 280px;
-    color : #a7203b !important;
+    color : #a42a42 !important;
   }
 
 .b-parallax {
@@ -836,7 +836,7 @@ p {
   }
   
   .bgc-atomic-tangerine {
-    background-color: #fff;
+    background-color: #a42a42;
   }
   
   .bgc-atomic-tangerine--color {
